@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages（欢迎） 
 
 You can use the [editor on GitHub](https://github.com/heixiaoxi/YOUMan/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -7,8 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
+    
 Syntax highlighted code block
 
 # Header 1
