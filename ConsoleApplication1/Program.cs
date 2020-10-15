@@ -13,6 +13,7 @@ namespace ConsoleApplication1
             //测试
             Console.WriteLine("输出");
             Console.WriteLine(DateTime.Now);
+            Console.WriteLine("OK");
         }
     }
 }
