@@ -10,7 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            //测试 2020年10月20日
+            //测试 2020
             Console.WriteLine(DateTime.Now);
         }
     }
